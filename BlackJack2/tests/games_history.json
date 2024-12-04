@@ -1,0 +1,27 @@
+[
+    {
+        "player": "Alice",
+        "result": "win",
+        "player_hand": ["King of Spades", "7 of Hearts"],
+        "dealer_hand": ["5 of Diamonds", "4 of Clubs"],
+        "bet": 50,
+        "balance": 1050,
+        "date_time": "2024-12-02 14:30:45"
+    },
+    {
+        "player": "Bob",
+        "result": "lose",
+        "player_hand": ["2 of Hearts", "9 of Spades"],
+        "dealer_hand": ["Queen of Diamonds", "Ace of Clubs"],
+        "bet": 100,
+        "balance": 900
+    },
+    {
+        "player": "Alice",
+        "result": "draw",
+        "player_hand": ["Jack of Diamonds", "9 of Hearts"],
+        "dealer_hand": ["9 of Diamonds", "Jack of Clubs"],
+        "bet": 20,
+        "balance": 1030
+    }
+]
