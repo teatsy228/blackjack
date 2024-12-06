@@ -1,6 +1,0 @@
-tkinter
-python==3.13.0
-json
-os
-random
-requests=3.4.0
